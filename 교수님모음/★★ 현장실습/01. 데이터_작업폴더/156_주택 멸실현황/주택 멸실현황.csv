@@ -1,0 +1,121 @@
+,C1,C1_NM,C1_OBJ_NM,C1_OBJ_NM_ENG,DT,ITM_ID,ITM_NM,ITM_NM_ENG,ORG_ID,PRD_DE,PRD_SE,TBL_ID,TBL_NM,UNIT_NM,UNIT_NM_ENG
+0,13102883384A.01,전국,구분,Classification,117730,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+1,13102883384A.01,전국,구분,Classification,52323,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+2,13102883384A.01,전국,구분,Classification,26723,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+3,13102883384A.01,전국,구분,Classification,5017,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+4,13102883384A.01,전국,구분,Classification,8159,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+5,13102883384A.01,전국,구분,Classification,25508,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+6,13102883384A.02,수도권,구분,Classification,69808,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+7,13102883384A.02,수도권,구분,Classification,18354,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+8,13102883384A.02,수도권,구분,Classification,19026,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+9,13102883384A.02,수도권,구분,Classification,4107,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+10,13102883384A.02,수도권,구분,Classification,6901,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+11,13102883384A.02,수도권,구분,Classification,21420,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+12,13102883384A.03,지방,구분,Classification,47922,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+13,13102883384A.03,지방,구분,Classification,33969,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+14,13102883384A.03,지방,구분,Classification,7697,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+15,13102883384A.03,지방,구분,Classification,910,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+16,13102883384A.03,지방,구분,Classification,1258,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+17,13102883384A.03,지방,구분,Classification,4088,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+18,13102883384A.04,서울,구분,Classification,47534,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+19,13102883384A.04,서울,구분,Classification,11042,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+20,13102883384A.04,서울,구분,Classification,13514,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+21,13102883384A.04,서울,구분,Classification,3007,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+22,13102883384A.04,서울,구분,Classification,5233,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+23,13102883384A.04,서울,구분,Classification,14738,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+24,13102883384A.05,부산,구분,Classification,7857,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+25,13102883384A.05,부산,구분,Classification,4510,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+26,13102883384A.05,부산,구분,Classification,2142,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+27,13102883384A.05,부산,구분,Classification,111,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+28,13102883384A.05,부산,구분,Classification,633,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+29,13102883384A.05,부산,구분,Classification,461,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+30,13102883384A.06,대구,구분,Classification,4375,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+31,13102883384A.06,대구,구분,Classification,1547,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+32,13102883384A.06,대구,구분,Classification,1571,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+33,13102883384A.06,대구,구분,Classification,50,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+34,13102883384A.06,대구,구분,Classification,173,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+35,13102883384A.06,대구,구분,Classification,1034,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+36,13102883384A.07,인천,구분,Classification,2782,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+37,13102883384A.07,인천,구분,Classification,1239,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+38,13102883384A.07,인천,구분,Classification,615,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+39,13102883384A.07,인천,구분,Classification,202,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+40,13102883384A.07,인천,구분,Classification,184,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+41,13102883384A.07,인천,구분,Classification,542,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+42,13102883384A.08,광주,구분,Classification,3020,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+43,13102883384A.08,광주,구분,Classification,2058,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+44,13102883384A.08,광주,구분,Classification,212,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+45,13102883384A.08,광주,구분,Classification,422,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+46,13102883384A.08,광주,구분,Classification,162,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+47,13102883384A.08,광주,구분,Classification,166,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+48,13102883384A.09,대전,구분,Classification,2661,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+49,13102883384A.09,대전,구분,Classification,1250,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+50,13102883384A.09,대전,구분,Classification,1345,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+51,13102883384A.09,대전,구분,Classification,10,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+52,13102883384A.09,대전,구분,Classification,56,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+53,13102883384A.09,대전,구분,Classification,0,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+54,13102883384A.10,울산,구분,Classification,1541,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+55,13102883384A.10,울산,구분,Classification,738,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+56,13102883384A.10,울산,구분,Classification,244,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+57,13102883384A.10,울산,구분,Classification,21,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+58,13102883384A.10,울산,구분,Classification,4,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+59,13102883384A.10,울산,구분,Classification,534,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+60,13102883384A.11,세종,구분,Classification,222,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+61,13102883384A.11,세종,구분,Classification,220,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+62,13102883384A.11,세종,구분,Classification,2,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+63,13102883384A.11,세종,구분,Classification,0,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+64,13102883384A.11,세종,구분,Classification,0,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+65,13102883384A.11,세종,구분,Classification,0,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+66,13102883384A.12,경기,구분,Classification,19492,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+67,13102883384A.12,경기,구분,Classification,6073,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+68,13102883384A.12,경기,구분,Classification,4897,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+69,13102883384A.12,경기,구분,Classification,898,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+70,13102883384A.12,경기,구분,Classification,1484,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+71,13102883384A.12,경기,구분,Classification,6140,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+72,13102883384A.13,강원,구분,Classification,2626,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+73,13102883384A.13,강원,구분,Classification,2218,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+74,13102883384A.13,강원,구분,Classification,314,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+75,13102883384A.13,강원,구분,Classification,24,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+76,13102883384A.13,강원,구분,Classification,70,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+77,13102883384A.13,강원,구분,Classification,0,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+78,13102883384A.14,충북,구분,Classification,2560,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+79,13102883384A.14,충북,구분,Classification,2297,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+80,13102883384A.14,충북,구분,Classification,263,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+81,13102883384A.14,충북,구분,Classification,0,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+82,13102883384A.14,충북,구분,Classification,0,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+83,13102883384A.14,충북,구분,Classification,0,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+84,13102883384A.15,충남,구분,Classification,2695,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+85,13102883384A.15,충남,구분,Classification,2429,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+86,13102883384A.15,충남,구분,Classification,177,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+87,13102883384A.15,충남,구분,Classification,20,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+88,13102883384A.15,충남,구분,Classification,69,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+89,13102883384A.15,충남,구분,Classification,0,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+90,13102883384A.16,전북,구분,Classification,2765,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+91,13102883384A.16,전북,구분,Classification,2463,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+92,13102883384A.16,전북,구분,Classification,185,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+93,13102883384A.16,전북,구분,Classification,113,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+94,13102883384A.16,전북,구분,Classification,4,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+95,13102883384A.16,전북,구분,Classification,0,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+96,13102883384A.17,전남,구분,Classification,3408,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+97,13102883384A.17,전남,구분,Classification,3358,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+98,13102883384A.17,전남,구분,Classification,42,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+99,13102883384A.17,전남,구분,Classification,4,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+100,13102883384A.17,전남,구분,Classification,4,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+101,13102883384A.17,전남,구분,Classification,0,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+102,13102883384A.18,경북,구분,Classification,6894,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+103,13102883384A.18,경북,구분,Classification,4894,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+104,13102883384A.18,경북,구분,Classification,717,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+105,13102883384A.18,경북,구분,Classification,10,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+106,13102883384A.18,경북,구분,Classification,8,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+107,13102883384A.18,경북,구분,Classification,1265,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+108,13102883384A.19,경남,구분,Classification,6109,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+109,13102883384A.19,경남,구분,Classification,4938,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+110,13102883384A.19,경남,구분,Classification,438,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+111,13102883384A.19,경남,구분,Classification,58,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+112,13102883384A.19,경남,구분,Classification,47,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+113,13102883384A.19,경남,구분,Classification,628,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+114,13102883384A.20,제주,구분,Classification,1189,13103883384T1,계,Total,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+115,13102883384A.20,제주,구분,Classification,1049,13103883384T2,단독,Single house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+116,13102883384A.20,제주,구분,Classification,45,13103883384T3,다가구,Multihouseholds,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+117,13102883384A.20,제주,구분,Classification,67,13103883384T4,연립,Row house,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+118,13102883384A.20,제주,구분,Classification,28,13103883384T5,다세대,Multifamily housing,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit
+119,13102883384A.20,제주,구분,Classification,0,13103883384T6,아파트,Apartment,116,2017,A,DT_MLTM_5416,주택 멸실현황,호,Apartment Unit

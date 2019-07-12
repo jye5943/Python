@@ -1,0 +1,1 @@
+http://openapi.molit.go.kr/OpenAPI_ToolInstallPackage/service/rest/RTMSOBJSvc/getRTMSDataSvcAptTradeDev?serviceKey=AT33s775KYpJOkUBJu0dxkJuUeIfDIOJRzAH084EQS3JN%2BzFjErLHuk%2FGZa9L4gBTSGCzeA69tI9PwLp7B37IQ%3D%3D&pageNo=1&startPage=1&numOfRows=10&pageSize=10&LAWD_CD=11110&DEAL_YMD=201512

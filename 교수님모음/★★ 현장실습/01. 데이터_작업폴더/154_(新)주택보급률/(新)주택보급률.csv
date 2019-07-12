@@ -1,0 +1,61 @@
+,C1,C1_NM,C1_NM_ENG,C1_OBJ_NM,C1_OBJ_NM_ENG,DT,ITM_ID,ITM_NM,ITM_NM_ENG,ORG_ID,PRD_DE,PRD_SE,TBL_ID,TBL_NM,UNIT_NM
+0,13102871096A.01,전국,Whole country,구분,Classification,19673.9,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+1,13102871096A.01,전국,Whole country,구분,Classification,20313.4,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+2,13102871096A.01,전국,Whole country,구분,Classification,103.3,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+3,13102871096A.02,수도권,Capital Area,구분,Classification,9496.5,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+4,13102871096A.02,수도권,Capital Area,구분,Classification,9335.5,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+5,13102871096A.02,수도권,Capital Area,구분,Classification,98.3,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+6,13102871096A.03,서울,Seoul,구분,Classification,3813.3,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+7,13102871096A.03,서울,Seoul,구분,Classification,3671.5,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+8,13102871096A.03,서울,Seoul,구분,Classification,96.3,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+9,13102871096A.04,지방,Other Region,구분,Classification,10177.4,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+10,13102871096A.04,지방,Other Region,구분,Classification,10978,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+11,13102871096A.04,지방,Other Region,구분,Classification,107.9,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+12,13102871096A.05,부산,Busan,구분,Classification,1354.4,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+13,13102871096A.05,부산,Busan,구분,Classification,1396,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+14,13102871096A.05,부산,Busan,구분,Classification,103.1,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+15,13102871096A.06,대구,Daegu,구분,Classification,948,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+16,13102871096A.06,대구,Daegu,구분,Classification,988.4,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+17,13102871096A.06,대구,Daegu,구분,Classification,104.3,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+18,13102871096A.07,인천,Incheon,구분,Classification,1080.3,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+19,13102871096A.07,인천,Incheon,구분,Classification,1084.2,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+20,13102871096A.07,인천,Incheon,구분,Classification,100.4,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+21,13102871096A.08,광주,Gwangju,구분,Classification,575.7,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+22,13102871096A.08,광주,Gwangju,구분,Classification,606.2,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+23,13102871096A.08,광주,Gwangju,구분,Classification,105.3,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+24,13102871096A.09,대전,Daejeon,구분,Classification,597.7,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+25,13102871096A.09,대전,Daejeon,구분,Classification,604.9,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+26,13102871096A.09,대전,Daejeon,구분,Classification,101.2,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+27,13102871096A.10,울산,Ulsan,구분,Classification,428.7,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+28,13102871096A.10,울산,Ulsan,구분,Classification,468.4,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+29,13102871096A.10,울산,Ulsan,구분,Classification,109.3,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+30,13102871096A.11,경기,Gyeonggi-do,구분,Classification,4603,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+31,13102871096A.11,경기,Gyeonggi-do,구분,Classification,4579.8,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+32,13102871096A.11,경기,Gyeonggi-do,구분,Classification,99.5,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+33,13102871096A.12,세종,Sejong,구분,Classification,104.3,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+34,13102871096A.12,세종,Sejong,구분,Classification,116.3,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+35,13102871096A.12,세종,Sejong,구분,Classification,111.5,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+36,13102871096A.13,강원,Gangwon-do,구분,Classification,620.7,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+37,13102871096A.13,강원,Gangwon-do,구분,Classification,668.8,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+38,13102871096A.13,강원,Gangwon-do,구분,Classification,107.7,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+39,13102871096A.14,충북,Chungcheongbuk-do,구분,Classification,629.1,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+40,13102871096A.14,충북,Chungcheongbuk-do,구분,Classification,700.8,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+41,13102871096A.14,충북,Chungcheongbuk-do,구분,Classification,111.4,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+42,13102871096A.15,충남,Chungcheongnam-do,구분,Classification,835,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+43,13102871096A.15,충남,Chungcheongnam-do,구분,Classification,922.8,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+44,13102871096A.15,충남,Chungcheongnam-do,구분,Classification,110.5,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+45,13102871096A.16,전북,Jeollabuk-do,구분,Classification,728.9,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+46,13102871096A.16,전북,Jeollabuk-do,구분,Classification,785.1,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+47,13102871096A.16,전북,Jeollabuk-do,구분,Classification,107.7,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+48,13102871096A.17,전남,Jeollanam-do,구분,Classification,733.8,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+49,13102871096A.17,전남,Jeollanam-do,구분,Classification,816.3,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+50,13102871096A.17,전남,Jeollanam-do,구분,Classification,111.3,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+51,13102871096A.18,경북,Gyeongsangbuk-do,구분,Classification,1087.8,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+52,13102871096A.18,경북,Gyeongsangbuk-do,구분,Classification,1247.3,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+53,13102871096A.18,경북,Gyeongsangbuk-do,구분,Classification,114.7,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+54,13102871096A.19,경남,Gyeongsangnam-do,구분,Classification,1293,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+55,13102871096A.19,경남,Gyeongsangnam-do,구분,Classification,1404,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+56,13102871096A.19,경남,Gyeongsangnam-do,구분,Classification,108.6,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+57,13102871096A.20,제주,Jeju,구분,Classification,240.2,13103871096T4,가구수(등록센서스),Household,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+58,13102871096A.20,제주,Jeju,구분,Classification,252.6,13103871096T5,주택수(등록센서스),number of houses,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％
+59,13102871096A.20,제주,Jeju,구분,Classification,105.2,13103871096T6,보급률(등록센서스),Penetration rate,116,2017,A,DT_MLTM_2100,(新)주택보급률,천호천가구％

@@ -1,0 +1,96 @@
+00,종합,Total,주택유형,Region,a0,전국,The Whole Country,지역,Region,65.94278373,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,66.50392128,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,65.43290585,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,a4,5대광역시,5 Metropolitan Cities,지역,Region,66.93593291,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,a6,8개도,8 Provinces,지역,Region,64.71775226,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,a7,서울,Seoul,지역,Region,61.63449084,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,a8,경기,Gyeonggi,지역,Region,68.81469426,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,a9,인천,Incheon,지역,Region,71.28404516,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,b1,부산,Busan,지역,Region,65.8532251,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,b2,대구,Daegu,지역,Region,65.47221892,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,b3,광주,Gwangju,지역,Region,71.04072666,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,b4,대전,Daejeon,지역,Region,69.40382501,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,b5,울산,Ulsan,지역,Region,65.11703822,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,b6,세종,Sejong,지역,Region,51.65731509,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,c1,강원,Gangwon,지역,Region,69.00232167,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,c2,충북,Chungbuk,지역,Region,67.07487035,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,c3,충남,Chungnam,지역,Region,63.89987603,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,c4,전북,Jeonbuk,지역,Region,69.38699537,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,c5,전남,Jeonnam,지역,Region,62.01485425,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,c6,경북,Gyeongbuk,지역,Region,62.75904367,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,c7,경남,Gyeongnam,지역,Region,63.55152343,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,c8,제주,Jeju,지역,Region,61.3151415,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,d1,6대광역시,6 Metropolitan Cities,지역,Region,67.92712031,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+00,종합,Total,주택유형,Region,d2,9개도,9 Provinces,지역,Region,66.50347109,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,a0,전국,The Whole Country,지역,Region,71.51857437,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,68.04341467,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,74.78738316,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,a4,5대광역시,5 Metropolitan Cities,지역,Region,72.6562788,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,a6,8개도,8 Provinces,지역,Region,77.21198703,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,a7,서울,Seoul,지역,Region,59.04925496,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,a8,경기,Gyeonggi,지역,Region,71.74155989,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,a9,인천,Incheon,지역,Region,75.57419329,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,b1,부산,Busan,지역,Region,70.31698469,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,b2,대구,Daegu,지역,Region,72.55483662,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,b3,광주,Gwangju,지역,Region,77.73045237,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,b4,대전,Daejeon,지역,Region,75.2265783,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,b5,울산,Ulsan,지역,Region,69.34956931,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,b6,세종,Sejong,지역,Region,54.02557819,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,c1,강원,Gangwon,지역,Region,79.80736367,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,c2,충북,Chungbuk,지역,Region,79.9764038,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,c3,충남,Chungnam,지역,Region,75.44326705,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,c4,전북,Jeonbuk,지역,Region,82.01935335,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,c5,전남,Jeonnam,지역,Region,77.91261659,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,c6,경북,Gyeongbuk,지역,Region,77.98823532,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,c7,경남,Gyeongnam,지역,Region,74.02650632,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,c8,제주,Jeju,지역,Region,66.04016942,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,d1,6대광역시,6 Metropolitan Cities,지역,Region,73.26295924,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+01,아파트,Apartments,주택유형,Region,d2,9개도,9 Provinces,지역,Region,74.53001057,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,a0,전국,The Whole Country,지역,Region,70.42390744,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,70.70296289,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,69.72638041,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,a4,5대광역시,5 Metropolitan Cities,지역,Region,69.08443483,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,a6,8개도,8 Provinces,지역,Region,70.31989132,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,a7,서울,Seoul,지역,Region,70.94164483,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,a8,경기,Gyeonggi,지역,Region,70.59273583,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,a9,인천,Incheon,지역,Region,70.25133698,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,b1,부산,Busan,지역,Region,69.12030679,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,b2,대구,Daegu,지역,Region,66.39462157,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,b3,광주,Gwangju,지역,Region,71.32799221,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,b4,대전,Daejeon,지역,Region,66.88431065,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,b5,울산,Ulsan,지역,Region,75.7767183,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,b6,세종,Sejong,지역,Region,70.94870704,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,c1,강원,Gangwon,지역,Region,75.42680971,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,c2,충북,Chungbuk,지역,Region,72.75936945,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,c3,충남,Chungnam,지역,Region,72.30030782,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,c4,전북,Jeonbuk,지역,Region,69.80684898,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,c5,전남,Jeonnam,지역,Region,77.05296338,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,c6,경북,Gyeongbuk,지역,Region,67.83169134,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,c7,경남,Gyeongnam,지역,Region,68.63391371,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,c8,제주,Jeju,지역,Region,66.31944015,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,d1,6대광역시,6 Metropolitan Cities,지역,Region,69.58093964,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+02,연립다세대,Row Houses,주택유형,Region,d2,9개도,9 Provinces,지역,Region,70.50026131,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,a0,전국,The Whole Country,지역,Region,48.4750037,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,51.95241177,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,47.38989764,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,a4,5대광역시,5 Metropolitan Cities,지역,Region,46.440106,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,a6,8개도,8 Provinces,지역,Region,47.69101389,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,a7,서울,Seoul,지역,Region,49.68441973,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,a8,경기,Gyeonggi,지역,Region,53.11510138,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,a9,인천,Incheon,지역,Region,53.57838041,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,b1,부산,Busan,지역,Region,47.93478377,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,b2,대구,Daegu,지역,Region,43.14175381,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,b3,광주,Gwangju,지역,Region,45.8672078,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,b4,대전,Daejeon,지역,Region,48.96932573,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,b5,울산,Ulsan,지역,Region,46.94870025,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,b6,세종,Sejong,지역,Region,38.49467901,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,c1,강원,Gangwon,지역,Region,53.06074901,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,c2,충북,Chungbuk,지역,Region,46.95398756,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,c3,충남,Chungnam,지역,Region,47.13013438,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,c4,전북,Jeonbuk,지역,Region,52.23527991,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,c5,전남,Jeonnam,지역,Region,46.98834647,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,c6,경북,Gyeongbuk,지역,Region,44.1652783,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,c7,경남,Gyeongnam,지역,Region,45.21818268,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,c8,제주,Jeju,지역,Region,55.03270223,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,d1,6대광역시,6 Metropolitan Cities,지역,Region,47.47416301,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%
+03,단독주택,Detached Houses,주택유형,Region,d2,9개도,9 Provinces,지역,Region,48.63696313,rate,매매가격 대비 전세가격,Jeonse Price to Sales Price Ratio,408,201903,M,DT_30404_N0006_R1,유형별 매매가격 대비 전세가격 비율,%,%

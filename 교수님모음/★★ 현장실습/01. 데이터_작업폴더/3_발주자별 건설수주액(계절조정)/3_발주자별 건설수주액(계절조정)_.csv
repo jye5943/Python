@@ -1,0 +1,2 @@
+,C1,C1_NM,C1_NM_ENG,C1_OBJ_NM,C1_OBJ_NM_ENG,DT,ITM_ID,ITM_NM,ITM_NM_ENG,ORG_ID,PRD_DE,PRD_SE,TBL_ID,TBL_NM,UNIT_NM,UNIT_NM_ENG
+0,0,수주총액,Total amount of orders received,발주자별,By the kind of orderer,8359968,T10,수주액(계절조정),Value of order received(seasonally adjusted),101,201902,M,DT_1G1B041,발주자별 건설수주액(계절조정),백만원,Million Won

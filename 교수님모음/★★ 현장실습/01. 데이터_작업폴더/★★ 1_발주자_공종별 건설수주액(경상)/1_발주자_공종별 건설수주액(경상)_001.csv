@@ -1,0 +1,4 @@
+,C1,C1_NM,C1_NM_ENG,C1_OBJ_NM,C1_OBJ_NM_ENG,C2,C2_NM,C2_NM_ENG,C2_OBJ_NM,C2_OBJ_NM_ENG,DT,ITM_ID,ITM_NM,ITM_NM_ENG,ORG_ID,PRD_DE,PRD_SE,TBL_ID,TBL_NM,UNIT_NM,UNIT_NM_ENG
+0,0,수주총액,Total amount of orders received,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,14930731,T10,수주액,Value of order received,101,201812,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+1,0,수주총액,Total amount of orders received,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,6637455,T10,수주액,Value of order received,101,201901,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won
+2,0,수주총액,Total amount of orders received,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,4608299,T10,수주액,Value of order received,101,201902,M,DT_1G1B002,발주자/공종별 건설수주액(경상),백만원,Million Won

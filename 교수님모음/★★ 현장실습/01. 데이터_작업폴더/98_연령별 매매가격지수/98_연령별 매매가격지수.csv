@@ -1,0 +1,265 @@
+,C1,C1_NM,C1_NM_ENG,C1_OBJ_NM,C1_OBJ_NM_ENG,C2,C2_NM,C2_NM_ENG,C2_OBJ_NM,C2_OBJ_NM_ENG,C3,C3_NM,C3_NM_ENG,C3_OBJ_NM,C3_OBJ_NM_ENG,DT,ITM_ID,ITM_NM,ITM_NM_ENG,ORG_ID,PRD_DE,PRD_SE,TBL_ID,TBL_NM,UNIT_NM,UNIT_NM_ENG
+0,01,아파트,Apartments,주택유형,Region,a0,전국,The Whole Country,지역,Region,01,연령1,Age1,건축연령,Region,100.9621285,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+1,01,아파트,Apartments,주택유형,Region,a0,전국,The Whole Country,지역,Region,02,연령2,Age2,건축연령,Region,101.0188553,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+2,01,아파트,Apartments,주택유형,Region,a0,전국,The Whole Country,지역,Region,03,연령3,Age3,건축연령,Region,99.47151538,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+3,01,아파트,Apartments,주택유형,Region,a0,전국,The Whole Country,지역,Region,04,연령4,Age4,건축연령,Region,98.40432873,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+4,01,아파트,Apartments,주택유형,Region,a0,전국,The Whole Country,지역,Region,05,연령5,Age5,건축연령,Region,98.9100424,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+5,01,아파트,Apartments,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,01,연령1,Age1,건축연령,Region,104.5380273,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+6,01,아파트,Apartments,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,02,연령2,Age2,건축연령,Region,103.5746073,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+7,01,아파트,Apartments,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,03,연령3,Age3,건축연령,Region,102.728229,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+8,01,아파트,Apartments,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,04,연령4,Age4,건축연령,Region,101.9280022,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+9,01,아파트,Apartments,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,05,연령5,Age5,건축연령,Region,103.4615985,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+10,01,아파트,Apartments,주택유형,Region,a10,광주,Gwangju,지역,Region,01,연령1,Age1,건축연령,Region,107.7376452,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+11,01,아파트,Apartments,주택유형,Region,a10,광주,Gwangju,지역,Region,02,연령2,Age2,건축연령,Region,108.443097,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+12,01,아파트,Apartments,주택유형,Region,a10,광주,Gwangju,지역,Region,03,연령3,Age3,건축연령,Region,104.7692307,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+13,01,아파트,Apartments,주택유형,Region,a10,광주,Gwangju,지역,Region,04,연령4,Age4,건축연령,Region,102.4258716,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+14,01,아파트,Apartments,주택유형,Region,a10,광주,Gwangju,지역,Region,05,연령5,Age5,건축연령,Region,102.0957369,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+15,01,아파트,Apartments,주택유형,Region,a11,대전,Daejeon,지역,Region,01,연령1,Age1,건축연령,Region,104.0077363,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+16,01,아파트,Apartments,주택유형,Region,a11,대전,Daejeon,지역,Region,02,연령2,Age2,건축연령,Region,107.2428719,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+17,01,아파트,Apartments,주택유형,Region,a11,대전,Daejeon,지역,Region,03,연령3,Age3,건축연령,Region,100.3802145,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+18,01,아파트,Apartments,주택유형,Region,a11,대전,Daejeon,지역,Region,04,연령4,Age4,건축연령,Region,101.1808409,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+19,01,아파트,Apartments,주택유형,Region,a11,대전,Daejeon,지역,Region,05,연령5,Age5,건축연령,Region,103.5430041,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+20,01,아파트,Apartments,주택유형,Region,a12,울산,Ulsan,지역,Region,01,연령1,Age1,건축연령,Region,92.10789537,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+21,01,아파트,Apartments,주택유형,Region,a12,울산,Ulsan,지역,Region,02,연령2,Age2,건축연령,Region,91.12606804,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+22,01,아파트,Apartments,주택유형,Region,a12,울산,Ulsan,지역,Region,03,연령3,Age3,건축연령,Region,90.19184677,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+23,01,아파트,Apartments,주택유형,Region,a12,울산,Ulsan,지역,Region,04,연령4,Age4,건축연령,Region,87.96209885,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+24,01,아파트,Apartments,주택유형,Region,a12,울산,Ulsan,지역,Region,05,연령5,Age5,건축연령,Region,85.12850567,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+25,01,아파트,Apartments,주택유형,Region,a13,세종,Sejong,지역,Region,01,연령1,Age1,건축연령,Region,100.9541299,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+26,01,아파트,Apartments,주택유형,Region,a13,세종,Sejong,지역,Region,02,연령2,Age2,건축연령,Region,102.3682548,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+27,01,아파트,Apartments,주택유형,Region,a13,세종,Sejong,지역,Region,03,연령3,Age3,건축연령,Region,97.17710383,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+28,01,아파트,Apartments,주택유형,Region,a13,세종,Sejong,지역,Region,04,연령4,Age4,건축연령,Region,98.01452474,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+29,01,아파트,Apartments,주택유형,Region,a13,세종,Sejong,지역,Region,05,연령5,Age5,건축연령,Region,97.50535189,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+30,01,아파트,Apartments,주택유형,Region,a14,강원,Gangwon,지역,Region,01,연령1,Age1,건축연령,Region,95.86355394,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+31,01,아파트,Apartments,주택유형,Region,a14,강원,Gangwon,지역,Region,02,연령2,Age2,건축연령,Region,95.0104744,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+32,01,아파트,Apartments,주택유형,Region,a14,강원,Gangwon,지역,Region,03,연령3,Age3,건축연령,Region,92.51545353,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+33,01,아파트,Apartments,주택유형,Region,a14,강원,Gangwon,지역,Region,04,연령4,Age4,건축연령,Region,92.757786,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+34,01,아파트,Apartments,주택유형,Region,a14,강원,Gangwon,지역,Region,05,연령5,Age5,건축연령,Region,94.10707186,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+35,01,아파트,Apartments,주택유형,Region,a15,충북,Chungbuk,지역,Region,01,연령1,Age1,건축연령,Region,95.11357102,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+36,01,아파트,Apartments,주택유형,Region,a15,충북,Chungbuk,지역,Region,02,연령2,Age2,건축연령,Region,94.08502791,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+37,01,아파트,Apartments,주택유형,Region,a15,충북,Chungbuk,지역,Region,03,연령3,Age3,건축연령,Region,92.57080796,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+38,01,아파트,Apartments,주택유형,Region,a15,충북,Chungbuk,지역,Region,04,연령4,Age4,건축연령,Region,90.73816366,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+39,01,아파트,Apartments,주택유형,Region,a15,충북,Chungbuk,지역,Region,05,연령5,Age5,건축연령,Region,91.30097281,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+40,01,아파트,Apartments,주택유형,Region,a16,충남,Chungnam,지역,Region,01,연령1,Age1,건축연령,Region,96.36012709,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+41,01,아파트,Apartments,주택유형,Region,a16,충남,Chungnam,지역,Region,02,연령2,Age2,건축연령,Region,95.6734852,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+42,01,아파트,Apartments,주택유형,Region,a16,충남,Chungnam,지역,Region,03,연령3,Age3,건축연령,Region,95.28329419,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+43,01,아파트,Apartments,주택유형,Region,a16,충남,Chungnam,지역,Region,04,연령4,Age4,건축연령,Region,92.49909971,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+44,01,아파트,Apartments,주택유형,Region,a16,충남,Chungnam,지역,Region,05,연령5,Age5,건축연령,Region,92.43056893,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+45,01,아파트,Apartments,주택유형,Region,a17,전북,Jeonbuk,지역,Region,01,연령1,Age1,건축연령,Region,99.39920492,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+46,01,아파트,Apartments,주택유형,Region,a17,전북,Jeonbuk,지역,Region,02,연령2,Age2,건축연령,Region,97.39730179,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+47,01,아파트,Apartments,주택유형,Region,a17,전북,Jeonbuk,지역,Region,03,연령3,Age3,건축연령,Region,96.75390357,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+48,01,아파트,Apartments,주택유형,Region,a17,전북,Jeonbuk,지역,Region,04,연령4,Age4,건축연령,Region,95.68000106,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+49,01,아파트,Apartments,주택유형,Region,a17,전북,Jeonbuk,지역,Region,05,연령5,Age5,건축연령,Region,97.92717487,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+50,01,아파트,Apartments,주택유형,Region,a18,전남,Jeonnam,지역,Region,01,연령1,Age1,건축연령,Region,101.584579,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+51,01,아파트,Apartments,주택유형,Region,a18,전남,Jeonnam,지역,Region,02,연령2,Age2,건축연령,Region,101.7390062,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+52,01,아파트,Apartments,주택유형,Region,a18,전남,Jeonnam,지역,Region,03,연령3,Age3,건축연령,Region,103.6437194,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+53,01,아파트,Apartments,주택유형,Region,a18,전남,Jeonnam,지역,Region,04,연령4,Age4,건축연령,Region,104.6915469,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+54,01,아파트,Apartments,주택유형,Region,a18,전남,Jeonnam,지역,Region,05,연령5,Age5,건축연령,Region,100.9783118,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+55,01,아파트,Apartments,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,01,연령1,Age1,건축연령,Region,96.76279272,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+56,01,아파트,Apartments,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,02,연령2,Age2,건축연령,Region,94.83361646,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+57,01,아파트,Apartments,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,03,연령3,Age3,건축연령,Region,92.69962907,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+58,01,아파트,Apartments,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,04,연령4,Age4,건축연령,Region,91.61876474,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+59,01,아파트,Apartments,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,05,연령5,Age5,건축연령,Region,90.56128663,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+60,01,아파트,Apartments,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,01,연령1,Age1,건축연령,Region,98.36538616,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+61,01,아파트,Apartments,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,02,연령2,Age2,건축연령,Region,98.2645383,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+62,01,아파트,Apartments,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,03,연령3,Age3,건축연령,Region,95.75227511,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+63,01,아파트,Apartments,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,04,연령4,Age4,건축연령,Region,94.99018576,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+64,01,아파트,Apartments,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,05,연령5,Age5,건축연령,Region,95.18094907,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+65,01,아파트,Apartments,주택유형,Region,a20,경남,Gyeongnam,지역,Region,01,연령1,Age1,건축연령,Region,93.17544731,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+66,01,아파트,Apartments,주택유형,Region,a20,경남,Gyeongnam,지역,Region,02,연령2,Age2,건축연령,Region,92.08309529,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+67,01,아파트,Apartments,주택유형,Region,a20,경남,Gyeongnam,지역,Region,03,연령3,Age3,건축연령,Region,88.21037027,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+68,01,아파트,Apartments,주택유형,Region,a20,경남,Gyeongnam,지역,Region,04,연령4,Age4,건축연령,Region,88.59967546,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+69,01,아파트,Apartments,주택유형,Region,a20,경남,Gyeongnam,지역,Region,05,연령5,Age5,건축연령,Region,88.81788508,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+70,01,아파트,Apartments,주택유형,Region,a21,제주,Jeju,지역,Region,01,연령1,Age1,건축연령,Region,96.32252925,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+71,01,아파트,Apartments,주택유형,Region,a21,제주,Jeju,지역,Region,02,연령2,Age2,건축연령,Region,97.63886524,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+72,01,아파트,Apartments,주택유형,Region,a21,제주,Jeju,지역,Region,03,연령3,Age3,건축연령,Region,95.16893049,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+73,01,아파트,Apartments,주택유형,Region,a21,제주,Jeju,지역,Region,04,연령4,Age4,건축연령,Region,94.8261241,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+74,01,아파트,Apartments,주택유형,Region,a21,제주,Jeju,지역,Region,05,연령5,Age5,건축연령,Region,97.59014918,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+75,01,아파트,Apartments,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,01,연령1,Age1,건축연령,Region,100.5658005,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+76,01,아파트,Apartments,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,02,연령2,Age2,건축연령,Region,101.6090925,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+77,01,아파트,Apartments,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,03,연령3,Age3,건축연령,Region,98.85539204,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+78,01,아파트,Apartments,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,04,연령4,Age4,건축연령,Region,98.17888511,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+79,01,아파트,Apartments,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,05,연령5,Age5,건축연령,Region,98.12300471,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+80,01,아파트,Apartments,주택유형,Region,a23,9개도,9 Provinces,지역,Region,01,연령1,Age1,건축연령,Region,99.76276907,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+81,01,아파트,Apartments,주택유형,Region,a23,9개도,9 Provinces,지역,Region,02,연령2,Age2,건축연령,Region,98.59440355,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+82,01,아파트,Apartments,주택유형,Region,a23,9개도,9 Provinces,지역,Region,03,연령3,Age3,건축연령,Region,97.14368817,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+83,01,아파트,Apartments,주택유형,Region,a23,9개도,9 Provinces,지역,Region,04,연령4,Age4,건축연령,Region,95.8010365,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+84,01,아파트,Apartments,주택유형,Region,a23,9개도,9 Provinces,지역,Region,05,연령5,Age5,건축연령,Region,96.70433055,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+85,01,아파트,Apartments,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,01,연령1,Age1,건축연령,Region,100.5766525,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+86,01,아파트,Apartments,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,02,연령2,Age2,건축연령,Region,101.8490941,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+87,01,아파트,Apartments,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,03,연령3,Age3,건축연령,Region,98.82890955,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+88,01,아파트,Apartments,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,04,연령4,Age4,건축연령,Region,98.06836893,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+89,01,아파트,Apartments,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,05,연령5,Age5,건축연령,Region,97.74377884,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+90,01,아파트,Apartments,주택유형,Region,a4,8개도,8 Provinces,지역,Region,01,연령1,Age1,건축연령,Region,96.24345858,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+91,01,아파트,Apartments,주택유형,Region,a4,8개도,8 Provinces,지역,Region,02,연령2,Age2,건축연령,Region,95.05494414,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+92,01,아파트,Apartments,주택유형,Region,a4,8개도,8 Provinces,지역,Region,03,연령3,Age3,건축연령,Region,93.06092483,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+93,01,아파트,Apartments,주택유형,Region,a4,8개도,8 Provinces,지역,Region,04,연령4,Age4,건축연령,Region,92.63827787,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+94,01,아파트,Apartments,주택유형,Region,a4,8개도,8 Provinces,지역,Region,05,연령5,Age5,건축연령,Region,92.90419132,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+95,01,아파트,Apartments,주택유형,Region,a5,서울,Seoul,지역,Region,01,연령1,Age1,건축연령,Region,107.5600366,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+96,01,아파트,Apartments,주택유형,Region,a5,서울,Seoul,지역,Region,02,연령2,Age2,건축연령,Region,109.0633252,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+97,01,아파트,Apartments,주택유형,Region,a5,서울,Seoul,지역,Region,03,연령3,Age3,건축연령,Region,107.2021059,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+98,01,아파트,Apartments,주택유형,Region,a5,서울,Seoul,지역,Region,04,연령4,Age4,건축연령,Region,107.5808867,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+99,01,아파트,Apartments,주택유형,Region,a5,서울,Seoul,지역,Region,05,연령5,Age5,건축연령,Region,107.6314578,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+100,01,아파트,Apartments,주택유형,Region,a6,경기,Gyeonggi,지역,Region,01,연령1,Age1,건축연령,Region,104.1912888,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+101,01,아파트,Apartments,주택유형,Region,a6,경기,Gyeonggi,지역,Region,02,연령2,Age2,건축연령,Region,101.6184183,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+102,01,아파트,Apartments,주택유형,Region,a6,경기,Gyeonggi,지역,Region,03,연령3,Age3,건축연령,Region,100.5146257,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+103,01,아파트,Apartments,주택유형,Region,a6,경기,Gyeonggi,지역,Region,04,연령4,Age4,건축연령,Region,99.02720962,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+104,01,아파트,Apartments,주택유형,Region,a6,경기,Gyeonggi,지역,Region,05,연령5,Age5,건축연령,Region,101.7062418,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+105,01,아파트,Apartments,주택유형,Region,a7,인천,Incheon,지역,Region,01,연령1,Age1,건축연령,Region,100.6426587,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+106,01,아파트,Apartments,주택유형,Region,a7,인천,Incheon,지역,Region,02,연령2,Age2,건축연령,Region,100.9382709,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+107,01,아파트,Apartments,주택유형,Region,a7,인천,Incheon,지역,Region,03,연령3,Age3,건축연령,Region,98.97559758,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+108,01,아파트,Apartments,주택유형,Region,a7,인천,Incheon,지역,Region,04,연령4,Age4,건축연령,Region,98.67678004,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+109,01,아파트,Apartments,주택유형,Region,a7,인천,Incheon,지역,Region,05,연령5,Age5,건축연령,Region,99.51066015,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+110,01,아파트,Apartments,주택유형,Region,a8,부산,Busan,지역,Region,01,연령1,Age1,건축연령,Region,96.79107134,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+111,01,아파트,Apartments,주택유형,Region,a8,부산,Busan,지역,Region,02,연령2,Age2,건축연령,Region,95.19079044,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+112,01,아파트,Apartments,주택유형,Region,a8,부산,Busan,지역,Region,03,연령3,Age3,건축연령,Region,95.52752383,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+113,01,아파트,Apartments,주택유형,Region,a8,부산,Busan,지역,Region,04,연령4,Age4,건축연령,Region,95.13814291,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+114,01,아파트,Apartments,주택유형,Region,a8,부산,Busan,지역,Region,05,연령5,Age5,건축연령,Region,95.0229067,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+115,01,아파트,Apartments,주택유형,Region,a9,대구,Daegu,지역,Region,01,연령1,Age1,건축연령,Region,106.7111246,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+116,01,아파트,Apartments,주택유형,Region,a9,대구,Daegu,지역,Region,02,연령2,Age2,건축연령,Region,107.1489373,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+117,01,아파트,Apartments,주택유형,Region,a9,대구,Daegu,지역,Region,03,연령3,Age3,건축연령,Region,104.1350333,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+118,01,아파트,Apartments,주택유형,Region,a9,대구,Daegu,지역,Region,04,연령4,Age4,건축연령,Region,100.891711,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+119,01,아파트,Apartments,주택유형,Region,a9,대구,Daegu,지역,Region,05,연령5,Age5,건축연령,Region,102.1528456,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+120,02,연립다세대,Row Houses,주택유형,Region,a0,전국,The Whole Country,지역,Region,01,연령1,Age1,건축연령,Region,100.6270494,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+121,02,연립다세대,Row Houses,주택유형,Region,a0,전국,The Whole Country,지역,Region,02,연령2,Age2,건축연령,Region,100.4566821,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+122,02,연립다세대,Row Houses,주택유형,Region,a0,전국,The Whole Country,지역,Region,03,연령3,Age3,건축연령,Region,100.2492087,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+123,02,연립다세대,Row Houses,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,01,연령1,Age1,건축연령,Region,101.5236612,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+124,02,연립다세대,Row Houses,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,02,연령2,Age2,건축연령,Region,101.6491269,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+125,02,연립다세대,Row Houses,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,03,연령3,Age3,건축연령,Region,101.7269928,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+126,02,연립다세대,Row Houses,주택유형,Region,a10,광주,Gwangju,지역,Region,01,연령1,Age1,건축연령,Region,100.7023734,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+127,02,연립다세대,Row Houses,주택유형,Region,a10,광주,Gwangju,지역,Region,02,연령2,Age2,건축연령,Region,99.45260682,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+128,02,연립다세대,Row Houses,주택유형,Region,a10,광주,Gwangju,지역,Region,03,연령3,Age3,건축연령,Region,104.4507059,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+129,02,연립다세대,Row Houses,주택유형,Region,a11,대전,Daejeon,지역,Region,01,연령1,Age1,건축연령,Region,98.88406643,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+130,02,연립다세대,Row Houses,주택유형,Region,a11,대전,Daejeon,지역,Region,02,연령2,Age2,건축연령,Region,102.5980447,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+131,02,연립다세대,Row Houses,주택유형,Region,a11,대전,Daejeon,지역,Region,03,연령3,Age3,건축연령,Region,100.8327906,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+132,02,연립다세대,Row Houses,주택유형,Region,a12,울산,Ulsan,지역,Region,01,연령1,Age1,건축연령,Region,96.42369676,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+133,02,연립다세대,Row Houses,주택유형,Region,a12,울산,Ulsan,지역,Region,02,연령2,Age2,건축연령,Region,93.88174464,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+134,02,연립다세대,Row Houses,주택유형,Region,a12,울산,Ulsan,지역,Region,03,연령3,Age3,건축연령,Region,94.1906055,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+135,02,연립다세대,Row Houses,주택유형,Region,a13,세종,Sejong,지역,Region,01,연령1,Age1,건축연령,Region,100.9881067,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+136,02,연립다세대,Row Houses,주택유형,Region,a13,세종,Sejong,지역,Region,02,연령2,Age2,건축연령,Region,101.2184889,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+137,02,연립다세대,Row Houses,주택유형,Region,a13,세종,Sejong,지역,Region,03,연령3,Age3,건축연령,Region,99.13337078,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+138,02,연립다세대,Row Houses,주택유형,Region,a14,강원,Gangwon,지역,Region,01,연령1,Age1,건축연령,Region,98.06949685,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+139,02,연립다세대,Row Houses,주택유형,Region,a14,강원,Gangwon,지역,Region,02,연령2,Age2,건축연령,Region,97.21307388,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+140,02,연립다세대,Row Houses,주택유형,Region,a14,강원,Gangwon,지역,Region,03,연령3,Age3,건축연령,Region,97.15542055,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+141,02,연립다세대,Row Houses,주택유형,Region,a15,충북,Chungbuk,지역,Region,01,연령1,Age1,건축연령,Region,96.32475156,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+142,02,연립다세대,Row Houses,주택유형,Region,a15,충북,Chungbuk,지역,Region,02,연령2,Age2,건축연령,Region,95.29351689,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+143,02,연립다세대,Row Houses,주택유형,Region,a15,충북,Chungbuk,지역,Region,03,연령3,Age3,건축연령,Region,96.98345343,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+144,02,연립다세대,Row Houses,주택유형,Region,a16,충남,Chungnam,지역,Region,01,연령1,Age1,건축연령,Region,97.115279,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+145,02,연립다세대,Row Houses,주택유형,Region,a16,충남,Chungnam,지역,Region,02,연령2,Age2,건축연령,Region,95.9502691,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+146,02,연립다세대,Row Houses,주택유형,Region,a16,충남,Chungnam,지역,Region,03,연령3,Age3,건축연령,Region,94.88709826,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+147,02,연립다세대,Row Houses,주택유형,Region,a17,전북,Jeonbuk,지역,Region,01,연령1,Age1,건축연령,Region,98.6220656,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+148,02,연립다세대,Row Houses,주택유형,Region,a17,전북,Jeonbuk,지역,Region,02,연령2,Age2,건축연령,Region,101.0009342,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+149,02,연립다세대,Row Houses,주택유형,Region,a17,전북,Jeonbuk,지역,Region,03,연령3,Age3,건축연령,Region,98.0754188,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+150,02,연립다세대,Row Houses,주택유형,Region,a18,전남,Jeonnam,지역,Region,01,연령1,Age1,건축연령,Region,100.6718278,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+151,02,연립다세대,Row Houses,주택유형,Region,a18,전남,Jeonnam,지역,Region,02,연령2,Age2,건축연령,Region,100.5241636,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+152,02,연립다세대,Row Houses,주택유형,Region,a18,전남,Jeonnam,지역,Region,03,연령3,Age3,건축연령,Region,100.6173951,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+153,02,연립다세대,Row Houses,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,01,연령1,Age1,건축연령,Region,96.83155377,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+154,02,연립다세대,Row Houses,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,02,연령2,Age2,건축연령,Region,96.73061459,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+155,02,연립다세대,Row Houses,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,03,연령3,Age3,건축연령,Region,96.0294177,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+156,02,연립다세대,Row Houses,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,01,연령1,Age1,건축연령,Region,97.71787168,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+157,02,연립다세대,Row Houses,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,02,연령2,Age2,건축연령,Region,97.52844599,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+158,02,연립다세대,Row Houses,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,03,연령3,Age3,건축연령,Region,97.34055247,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+159,02,연립다세대,Row Houses,주택유형,Region,a20,경남,Gyeongnam,지역,Region,01,연령1,Age1,건축연령,Region,92.57317106,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+160,02,연립다세대,Row Houses,주택유형,Region,a20,경남,Gyeongnam,지역,Region,02,연령2,Age2,건축연령,Region,91.84880952,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+161,02,연립다세대,Row Houses,주택유형,Region,a20,경남,Gyeongnam,지역,Region,03,연령3,Age3,건축연령,Region,91.69031581,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+162,02,연립다세대,Row Houses,주택유형,Region,a21,제주,Jeju,지역,Region,01,연령1,Age1,건축연령,Region,98.3485392,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+163,02,연립다세대,Row Houses,주택유형,Region,a21,제주,Jeju,지역,Region,02,연령2,Age2,건축연령,Region,97.99915592,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+164,02,연립다세대,Row Houses,주택유형,Region,a21,제주,Jeju,지역,Region,03,연령3,Age3,건축연령,Region,96.86221754,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+165,02,연립다세대,Row Houses,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,01,연령1,Age1,건축연령,Region,99.43040009,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+166,02,연립다세대,Row Houses,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,02,연령2,Age2,건축연령,Region,99.45351218,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+167,02,연립다세대,Row Houses,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,03,연령3,Age3,건축연령,Region,99.85417252,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+168,02,연립다세대,Row Houses,주택유형,Region,a23,9개도,9 Provinces,지역,Region,01,연령1,Age1,건축연령,Region,99.29554212,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+169,02,연립다세대,Row Houses,주택유형,Region,a23,9개도,9 Provinces,지역,Region,02,연령2,Age2,건축연령,Region,99.26076837,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+170,02,연립다세대,Row Houses,주택유형,Region,a23,9개도,9 Provinces,지역,Region,03,연령3,Age3,건축연령,Region,98.6506169,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+171,02,연립다세대,Row Houses,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,01,연령1,Age1,건축연령,Region,98.56572979,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+172,02,연립다세대,Row Houses,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,02,연령2,Age2,건축연령,Region,98.49232333,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+173,02,연립다세대,Row Houses,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,03,연령3,Age3,건축연령,Region,99.02020067,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+174,02,연립다세대,Row Houses,주택유형,Region,a4,8개도,8 Provinces,지역,Region,01,연령1,Age1,건축연령,Region,96.99963099,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+175,02,연립다세대,Row Houses,주택유형,Region,a4,8개도,8 Provinces,지역,Region,02,연령2,Age2,건축연령,Region,96.3012831,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+176,02,연립다세대,Row Houses,주택유형,Region,a4,8개도,8 Provinces,지역,Region,03,연령3,Age3,건축연령,Region,95.89153735,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+177,02,연립다세대,Row Houses,주택유형,Region,a5,서울,Seoul,지역,Region,01,연령1,Age1,건축연령,Region,102.8563652,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+178,02,연립다세대,Row Houses,주택유형,Region,a5,서울,Seoul,지역,Region,02,연령2,Age2,건축연령,Region,102.5379297,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+179,02,연립다세대,Row Houses,주택유형,Region,a5,서울,Seoul,지역,Region,03,연령3,Age3,건축연령,Region,103.3142487,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+180,02,연립다세대,Row Houses,주택유형,Region,a6,경기,Gyeonggi,지역,Region,01,연령1,Age1,건축연령,Region,100.2137277,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+181,02,연립다세대,Row Houses,주택유형,Region,a6,경기,Gyeonggi,지역,Region,02,연령2,Age2,건축연령,Region,100.7555777,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+182,02,연립다세대,Row Houses,주택유형,Region,a6,경기,Gyeonggi,지역,Region,03,연령3,Age3,건축연령,Region,100.4954323,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+183,02,연립다세대,Row Houses,주택유형,Region,a7,인천,Incheon,지역,Region,01,연령1,Age1,건축연령,Region,100.6356687,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+184,02,연립다세대,Row Houses,주택유형,Region,a7,인천,Incheon,지역,Region,02,연령2,Age2,건축연령,Region,100.8786915,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+185,02,연립다세대,Row Houses,주택유형,Region,a7,인천,Incheon,지역,Region,03,연령3,Age3,건축연령,Region,100.9226193,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+186,02,연립다세대,Row Houses,주택유형,Region,a8,부산,Busan,지역,Region,01,연령1,Age1,건축연령,Region,98.27896596,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+187,02,연립다세대,Row Houses,주택유형,Region,a8,부산,Busan,지역,Region,02,연령2,Age2,건축연령,Region,97.54201916,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+188,02,연립다세대,Row Houses,주택유형,Region,a8,부산,Busan,지역,Region,03,연령3,Age3,건축연령,Region,97.57752578,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+189,02,연립다세대,Row Houses,주택유형,Region,a9,대구,Daegu,지역,Region,01,연령1,Age1,건축연령,Region,100.8208349,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+190,02,연립다세대,Row Houses,주택유형,Region,a9,대구,Daegu,지역,Region,02,연령2,Age2,건축연령,Region,101.434406,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+191,02,연립다세대,Row Houses,주택유형,Region,a9,대구,Daegu,지역,Region,03,연령3,Age3,건축연령,Region,101.8776069,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+192,03,단독주택,Detached Houses,주택유형,Region,a0,전국,The Whole Country,지역,Region,01,연령1,Age1,건축연령,Region,103.9011562,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+193,03,단독주택,Detached Houses,주택유형,Region,a0,전국,The Whole Country,지역,Region,02,연령2,Age2,건축연령,Region,104.2897039,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+194,03,단독주택,Detached Houses,주택유형,Region,a0,전국,The Whole Country,지역,Region,03,연령3,Age3,건축연령,Region,104.7300916,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+195,03,단독주택,Detached Houses,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,01,연령1,Age1,건축연령,Region,104.7257453,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+196,03,단독주택,Detached Houses,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,02,연령2,Age2,건축연령,Region,105.5032346,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+197,03,단독주택,Detached Houses,주택유형,Region,a1,수도권,Seoul Metropolitan Area,지역,Region,03,연령3,Age3,건축연령,Region,106.3807743,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+198,03,단독주택,Detached Houses,주택유형,Region,a10,광주,Gwangju,지역,Region,01,연령1,Age1,건축연령,Region,104.4729541,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+199,03,단독주택,Detached Houses,주택유형,Region,a10,광주,Gwangju,지역,Region,02,연령2,Age2,건축연령,Region,106.1585779,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+200,03,단독주택,Detached Houses,주택유형,Region,a10,광주,Gwangju,지역,Region,03,연령3,Age3,건축연령,Region,107.5557541,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+201,03,단독주택,Detached Houses,주택유형,Region,a11,대전,Daejeon,지역,Region,01,연령1,Age1,건축연령,Region,104.0658852,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+202,03,단독주택,Detached Houses,주택유형,Region,a11,대전,Daejeon,지역,Region,02,연령2,Age2,건축연령,Region,104.3968668,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+203,03,단독주택,Detached Houses,주택유형,Region,a11,대전,Daejeon,지역,Region,03,연령3,Age3,건축연령,Region,104.7470654,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+204,03,단독주택,Detached Houses,주택유형,Region,a12,울산,Ulsan,지역,Region,01,연령1,Age1,건축연령,Region,102.3536007,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+205,03,단독주택,Detached Houses,주택유형,Region,a12,울산,Ulsan,지역,Region,02,연령2,Age2,건축연령,Region,104.391037,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+206,03,단독주택,Detached Houses,주택유형,Region,a12,울산,Ulsan,지역,Region,03,연령3,Age3,건축연령,Region,103.0721511,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+207,03,단독주택,Detached Houses,주택유형,Region,a13,세종,Sejong,지역,Region,01,연령1,Age1,건축연령,Region,108.2885858,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+208,03,단독주택,Detached Houses,주택유형,Region,a13,세종,Sejong,지역,Region,02,연령2,Age2,건축연령,Region,108.9714185,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+209,03,단독주택,Detached Houses,주택유형,Region,a13,세종,Sejong,지역,Region,03,연령3,Age3,건축연령,Region,108.3290082,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+210,03,단독주택,Detached Houses,주택유형,Region,a14,강원,Gangwon,지역,Region,01,연령1,Age1,건축연령,Region,104.3235307,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+211,03,단독주택,Detached Houses,주택유형,Region,a14,강원,Gangwon,지역,Region,02,연령2,Age2,건축연령,Region,104.2340868,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+212,03,단독주택,Detached Houses,주택유형,Region,a14,강원,Gangwon,지역,Region,03,연령3,Age3,건축연령,Region,104.4736721,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+213,03,단독주택,Detached Houses,주택유형,Region,a15,충북,Chungbuk,지역,Region,01,연령1,Age1,건축연령,Region,102.9149597,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+214,03,단독주택,Detached Houses,주택유형,Region,a15,충북,Chungbuk,지역,Region,02,연령2,Age2,건축연령,Region,103.6815916,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+215,03,단독주택,Detached Houses,주택유형,Region,a15,충북,Chungbuk,지역,Region,03,연령3,Age3,건축연령,Region,103.7032188,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+216,03,단독주택,Detached Houses,주택유형,Region,a16,충남,Chungnam,지역,Region,01,연령1,Age1,건축연령,Region,101.927742,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+217,03,단독주택,Detached Houses,주택유형,Region,a16,충남,Chungnam,지역,Region,02,연령2,Age2,건축연령,Region,102.4221539,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+218,03,단독주택,Detached Houses,주택유형,Region,a16,충남,Chungnam,지역,Region,03,연령3,Age3,건축연령,Region,102.4685364,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+219,03,단독주택,Detached Houses,주택유형,Region,a17,전북,Jeonbuk,지역,Region,01,연령1,Age1,건축연령,Region,103.5483222,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+220,03,단독주택,Detached Houses,주택유형,Region,a17,전북,Jeonbuk,지역,Region,02,연령2,Age2,건축연령,Region,102.5702085,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+221,03,단독주택,Detached Houses,주택유형,Region,a17,전북,Jeonbuk,지역,Region,03,연령3,Age3,건축연령,Region,103.5237237,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+222,03,단독주택,Detached Houses,주택유형,Region,a18,전남,Jeonnam,지역,Region,01,연령1,Age1,건축연령,Region,105.0695033,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+223,03,단독주택,Detached Houses,주택유형,Region,a18,전남,Jeonnam,지역,Region,02,연령2,Age2,건축연령,Region,105.3333919,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+224,03,단독주택,Detached Houses,주택유형,Region,a18,전남,Jeonnam,지역,Region,03,연령3,Age3,건축연령,Region,104.6123177,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+225,03,단독주택,Detached Houses,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,01,연령1,Age1,건축연령,Region,103.2828537,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+226,03,단독주택,Detached Houses,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,02,연령2,Age2,건축연령,Region,103.5336166,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+227,03,단독주택,Detached Houses,주택유형,Region,a19,경북,Gyeongbuk,지역,Region,03,연령3,Age3,건축연령,Region,103.801518,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+228,03,단독주택,Detached Houses,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,01,연령1,Age1,건축연령,Region,103.649433,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+229,03,단독주택,Detached Houses,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,02,연령2,Age2,건축연령,Region,103.8847615,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+230,03,단독주택,Detached Houses,주택유형,Region,a2,지방,Non-Seoul Metropolitan Area,지역,Region,03,연령3,Age3,건축연령,Region,104.2213467,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+231,03,단독주택,Detached Houses,주택유형,Region,a20,경남,Gyeongnam,지역,Region,01,연령1,Age1,건축연령,Region,102.8195737,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+232,03,단독주택,Detached Houses,주택유형,Region,a20,경남,Gyeongnam,지역,Region,02,연령2,Age2,건축연령,Region,102.8110652,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+233,03,단독주택,Detached Houses,주택유형,Region,a20,경남,Gyeongnam,지역,Region,03,연령3,Age3,건축연령,Region,101.771011,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+234,03,단독주택,Detached Houses,주택유형,Region,a21,제주,Jeju,지역,Region,01,연령1,Age1,건축연령,Region,105.1825946,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+235,03,단독주택,Detached Houses,주택유형,Region,a21,제주,Jeju,지역,Region,02,연령2,Age2,건축연령,Region,106.4300215,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+236,03,단독주택,Detached Houses,주택유형,Region,a21,제주,Jeju,지역,Region,03,연령3,Age3,건축연령,Region,106.1932738,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+237,03,단독주택,Detached Houses,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,01,연령1,Age1,건축연령,Region,104.4696893,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+238,03,단독주택,Detached Houses,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,02,연령2,Age2,건축연령,Region,105.1996646,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+239,03,단독주택,Detached Houses,주택유형,Region,a22,6대광역시,6 Large Cities,지역,Region,03,연령3,Age3,건축연령,Region,106.2444605,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+240,03,단독주택,Detached Houses,주택유형,Region,a23,9개도,9 Provinces,지역,Region,01,연령1,Age1,건축연령,Region,103.7040139,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+241,03,단독주택,Detached Houses,주택유형,Region,a23,9개도,9 Provinces,지역,Region,02,연령2,Age2,건축연령,Region,103.8750276,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+242,03,단독주택,Detached Houses,주택유형,Region,a23,9개도,9 Provinces,지역,Region,03,연령3,Age3,건축연령,Region,103.7892957,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+243,03,단독주택,Detached Houses,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,01,연령1,Age1,건축연령,Region,104.7555842,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+244,03,단독주택,Detached Houses,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,02,연령2,Age2,건축연령,Region,105.4145006,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+245,03,단독주택,Detached Houses,주택유형,Region,a3,5대광역시,5 Large Cities,지역,Region,03,연령3,Age3,건축연령,Region,106.4969299,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+246,03,단독주택,Detached Houses,주택유형,Region,a4,8개도,8 Provinces,지역,Region,01,연령1,Age1,건축연령,Region,103.4399648,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+247,03,단독주택,Detached Houses,주택유형,Region,a4,8개도,8 Provinces,지역,Region,02,연령2,Age2,건축연령,Region,103.5983952,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+248,03,단독주택,Detached Houses,주택유형,Region,a4,8개도,8 Provinces,지역,Region,03,연령3,Age3,건축연령,Region,103.5278736,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+249,03,단독주택,Detached Houses,주택유형,Region,a5,서울,Seoul,지역,Region,01,연령1,Age1,건축연령,Region,106.8827153,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+250,03,단독주택,Detached Houses,주택유형,Region,a5,서울,Seoul,지역,Region,02,연령2,Age2,건축연령,Region,108.4663858,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+251,03,단독주택,Detached Houses,주택유형,Region,a5,서울,Seoul,지역,Region,03,연령3,Age3,건축연령,Region,108.0007811,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+252,03,단독주택,Detached Houses,주택유형,Region,a6,경기,Gyeonggi,지역,Region,01,연령1,Age1,건축연령,Region,104.6461231,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+253,03,단독주택,Detached Houses,주택유형,Region,a6,경기,Gyeonggi,지역,Region,02,연령2,Age2,건축연령,Region,104.8599734,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+254,03,단독주택,Detached Houses,주택유형,Region,a6,경기,Gyeonggi,지역,Region,03,연령3,Age3,건축연령,Region,105.2486691,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+255,03,단독주택,Detached Houses,주택유형,Region,a7,인천,Incheon,지역,Region,01,연령1,Age1,건축연령,Region,103.2921778,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+256,03,단독주택,Detached Houses,주택유형,Region,a7,인천,Incheon,지역,Region,02,연령2,Age2,건축연령,Region,104.1531019,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+257,03,단독주택,Detached Houses,주택유형,Region,a7,인천,Incheon,지역,Region,03,연령3,Age3,건축연령,Region,104.6583355,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+258,03,단독주택,Detached Houses,주택유형,Region,a8,부산,Busan,지역,Region,01,연령1,Age1,건축연령,Region,106.5556449,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+259,03,단독주택,Detached Houses,주택유형,Region,a8,부산,Busan,지역,Region,02,연령2,Age2,건축연령,Region,105.852665,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+260,03,단독주택,Detached Houses,주택유형,Region,a8,부산,Busan,지역,Region,03,연령3,Age3,건축연령,Region,106.5358409,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+261,03,단독주택,Detached Houses,주택유형,Region,a9,대구,Daegu,지역,Region,01,연령1,Age1,건축연령,Region,106.9284063,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+262,03,단독주택,Detached Houses,주택유형,Region,a9,대구,Daegu,지역,Region,02,연령2,Age2,건축연령,Region,106.1882959,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0
+263,03,단독주택,Detached Houses,주택유형,Region,a9,대구,Daegu,지역,Region,03,연령3,Age3,건축연령,Region,107.932552,sales,매매가격,Sales Price Index,408,201903,M,DT_40803_N0005,연령별 매매가격지수,2017.11 ＝ 100.0,2017.11 ＝ 100.0

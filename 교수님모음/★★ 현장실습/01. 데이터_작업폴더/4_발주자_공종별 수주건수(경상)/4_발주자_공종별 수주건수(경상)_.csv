@@ -1,0 +1,16 @@
+,C1,C1_NM,C1_NM_ENG,C1_OBJ_NM,C1_OBJ_NM_ENG,C2,C2_NM,C2_NM_ENG,C2_OBJ_NM,C2_OBJ_NM_ENG,DT,ITM_ID,ITM_NM,ITM_NM_ENG,ORG_ID,PRD_DE,PRD_SE,TBL_ID,TBL_NM,UNIT_NM,UNIT_NM_ENG
+0,0,수주건수,Number of orders received,발주자별,By the kind of orderer,0,계,Total,공종별,By the kind of construction works,844,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+1,0,수주건수,Number of orders received,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,485,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+2,0,수주건수,Number of orders received,발주자별,By the kind of orderer,2,토목,Civil engineering,공종별,By the kind of construction works,359,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+3,1,공공부문,Public sector,발주자별,By the kind of orderer,0,계,Total,공종별,By the kind of construction works,396,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+4,1,공공부문,Public sector,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,134,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+5,1,공공부문,Public sector,발주자별,By the kind of orderer,2,토목,Civil engineering,공종별,By the kind of construction works,262,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+6,2,민간부문,Private sector,발주자별,By the kind of orderer,0,계,Total,공종별,By the kind of construction works,429,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+7,2,민간부문,Private sector,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,346,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+8,2,민간부문,Private sector,발주자별,By the kind of orderer,2,토목,Civil engineering,공종별,By the kind of construction works,83,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+9,3,국내외국기관,Foreign org. in korea,발주자별,By the kind of orderer,0,계,Total,공종별,By the kind of construction works,2,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+10,3,국내외국기관,Foreign org. in korea,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,2,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+11,3,국내외국기관,Foreign org. in korea,발주자별,By the kind of orderer,2,토목,Civil engineering,공종별,By the kind of construction works,0,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+12,4,민자,Private investment,발주자별,By the kind of orderer,0,계,Total,공종별,By the kind of construction works,17,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+13,4,민자,Private investment,발주자별,By the kind of orderer,1,건축,Building,공종별,By the kind of construction works,3,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases
+14,4,민자,Private investment,발주자별,By the kind of orderer,2,토목,Civil engineering,공종별,By the kind of construction works,14,T30,수주건수,The number of order received,101,201902,M,DT_1G1B022,발주자/공종별 수주건수(경상),건,Cases

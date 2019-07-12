@@ -1,0 +1,58 @@
+,C1,C1_NM,C1_NM_ENG,C1_OBJ_NM,C1_OBJ_NM_ENG,DT,ITM_ID,ITM_NM,ITM_NM_ENG,ORG_ID,PRD_DE,PRD_SE,TBL_ID,TBL_NM,UNIT_NM,UNIT_NM_ENG
+0,13102766977A.01,전국,Whole Country,구분,Classification,13535.4,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+1,13102766977A.01,전국,Whole Country,구분,Classification,15988.8,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+2,13102766977A.01,전국,Whole Country,구분,Classification,118.1,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+3,13102766977A.02,수도권,Capital Area,구분,Classification,6721.6,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+4,13102766977A.02,수도권,Capital Area,구분,Classification,7223.7,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+5,13102766977A.02,수도권,Capital Area,구분,Classification,107.5,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+6,13102766977A.03,서울,Seoul,구분,Classification,2635.8,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+7,13102766977A.03,서울,Seoul,구분,Classification,2736.1,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+8,13102766977A.03,서울,Seoul,구분,Classification,103.8,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+9,13102766977A.04,지방,Local,구분,Classification,6813.9,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+10,13102766977A.04,지방,Local,구분,Classification,8765.1,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+11,13102766977A.04,지방,Local,구분,Classification,128.6,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+12,13102766977A.05,부산,Busan,구분,Classification,938.7,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+13,13102766977A.05,부산,Busan,구분,Classification,1135.2,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+14,13102766977A.05,부산,Busan,구분,Classification,120.9,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+15,13102766977A.06,대구,Daegu,구분,Classification,681.3,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+16,13102766977A.06,대구,Daegu,구분,Classification,723.8,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+17,13102766977A.06,대구,Daegu,구분,Classification,106.2,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+18,13102766977A.07,인천,Incheon,구분,Classification,764.2,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+19,13102766977A.07,인천,Incheon,구분,Classification,903.2,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+20,13102766977A.07,인천,Incheon,구분,Classification,118.2,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+21,13102766977A.08,광주,Gwangju,구분,Classification,410.7,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+22,13102766977A.08,광주,Gwangju,구분,Classification,480,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+23,13102766977A.08,광주,Gwangju,구분,Classification,116.9,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+24,13102766977A.09,대전,Daejeon,구분,Classification,411.4,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+25,13102766977A.09,대전,Daejeon,구분,Classification,462.2,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+26,13102766977A.09,대전,Daejeon,구분,Classification,112.3,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+27,13102766977A.10,울산,Ulsan,구분,Classification,307.5,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+28,13102766977A.10,울산,Ulsan,구분,Classification,343.4,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+29,13102766977A.10,울산,Ulsan,구분,Classification,111.7,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+30,13102766977A.11,경기,Gyeonggi,구분,Classification,3321.5,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+31,13102766977A.11,경기,Gyeonggi,구분,Classification,3584.4,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+32,13102766977A.11,경기,Gyeonggi,구분,Classification,107.9,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+33,13102766977A.12,강원,Gangwon,구분,Classification,401.9,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+34,13102766977A.12,강원,Gangwon,구분,Classification,565.5,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+35,13102766977A.12,강원,Gangwon,구분,Classification,140.7,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+36,13102766977A.13,충북,Chungbuk,구분,Classification,418.8,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+37,13102766977A.13,충북,Chungbuk,구분,Classification,552.5,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+38,13102766977A.13,충북,Chungbuk,구분,Classification,131.9,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+39,13102766977A.14,충남,Chungnam,구분,Classification,564.9,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+40,13102766977A.14,충남,Chungnam,구분,Classification,808,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+41,13102766977A.14,충남,Chungnam,구분,Classification,143,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+42,13102766977A.15,전북,Jeonbuk,구분,Classification,482,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+43,13102766977A.15,전북,Jeonbuk,구분,Classification,677.2,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+44,13102766977A.15,전북,Jeonbuk,구분,Classification,140.5,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+45,13102766977A.16,전남,Jeonnam,구분,Classification,466.1,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+46,13102766977A.16,전남,Jeonnam,구분,Classification,733.9,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+47,13102766977A.16,전남,Jeonnam,구분,Classification,157.5,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+48,13102766977A.17,경북,Gyeongbuk,구분,Classification,705.3,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+49,13102766977A.17,경북,Gyeongbuk,구분,Classification,984.2,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+50,13102766977A.17,경북,Gyeongbuk,구분,Classification,139.6,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+51,13102766977A.18,경남,Gyeongnam,구분,Classification,883.2,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+52,13102766977A.18,경남,Gyeongnam,구분,Classification,1113.5,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+53,13102766977A.18,경남,Gyeongnam,구분,Classification,126.1,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+54,13102766977A.19,제주,Jeju,구분,Classification,142.2,13103766977T1,가구수,Household,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+55,13102766977A.19,제주,Jeju,구분,Classification,185.8,13103766977T2,주택수,Number of housing,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
+56,13102766977A.19,제주,Jeju,구분,Classification,130.7,13103766977T3,보급률,Supply ratio,116,2014,A,DT_MLTM_592,(종전)주택보급률,천호천가구%,1000 apartment units 1000 households %
